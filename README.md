@@ -3,6 +3,7 @@
 ## Easy way to get database type stuff into Elasticsearch
 
 [![Join the chat at https://gitter.im/samtecspg/conveyor](https://badges.gitter.im/samtecspg/conveyor.svg)](https://gitter.im/samtecspg/conveyor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmilutz%2Fconveyor.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmilutz%2Fconveyor?ref=badge_shield)
 
 ## Documentation
 
@@ -44,3 +45,6 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmilutz%2Fconveyor.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmilutz%2Fconveyor?ref=badge_large)
